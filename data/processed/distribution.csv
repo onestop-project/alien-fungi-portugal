@@ -1,12 +1,18 @@
-taxonID,locality,countryCode,occurrenceStatus,threatStatus,source,occurrenceRemarks
-my_dataset_shortname:taxon:6c17452b1e85e24150e742cd5c32f353,Flanders,BE,present,,"Verloove F (2018) Manual of Alien Plants of Belgium. Botanic Garden of Meise, Belgium. At: http://alienplantsbelgium.be.",
-my_dataset_shortname:taxon:6c341828da8ef55771f60db2bca5d530,Walloon region,BE,present,,"Verloove F (2018) Manual of Alien Plants of Belgium. Botanic Garden of Meise, Belgium. At: http://alienplantsbelgium.be.",
-my_dataset_shortname:taxon:6c341828da8ef55771f60db2bca5d530,French region,BE,present,,"Verloove F (2018) Manual of Alien Plants of Belgium. Botanic Garden of Meise, Belgium. At: http://alienplantsbelgium.be.",
-my_dataset_shortname:taxon:8c1b5d2f1230258c8aab8080de58adc8,"",FR,present,,https://doi.org/10.1007/s10530-016-1278-z,
-my_dataset_shortname:taxon:1e76cf83153eacf1bd350d2555445b1e,Belgium,BE,present,EN,"Bauwens D & Claus K (1996) Verspreiding van amfibieën en reptillen in Vlaanderen. De Wielewaal, Turnhout",
-my_dataset_shortname:taxon:1e68c6f279e725acadb669262525a333,Macedonia,MK,present,VU,,Absent according to Rudi Verovnik
-my_dataset_shortname:taxon:25241f6eaceeae8e160df3d5faeba4fc,The Netherlands,NL,doubtful,,https://doi.org/10.3897/neobiota.23.5665,data based solely on DAISIE portal
-my_dataset_shortname:taxon:4a2de82bb780c9bfeee686a884cd60a0,United Kingdom,GB,present,,,
-my_dataset_shortname:taxon:c185c5613364e6a23f16670df0250ce8,Belgium,BE,present,,,
-my_dataset_shortname:taxon:c2a0ed4f0866a5fb9bfbc161ce4533ed,United Kingdom,GB,present,,,
-my_dataset_shortname:taxon:1b9df504ed6a5ad4acfc135b64f7fe0e,United Kingdom,GB,present,,,
+taxonID,locality,countryCode,occurrenceStatus,establishmentMeans,degreeOfEstablishment,pathway,eventDate,source,occurrenceRemarks
+alien-fungi-portugal:taxon:34ce5f9601fc24c569d68a6e0dc68559,Mainland,PT,present,introduced,reproducing,transportStowaway,2007/2025,https://observation.org/photos/62038778/,
+alien-fungi-portugal:taxon:34ce5f9601fc24c569d68a6e0dc68559,Azores,PT,present,uncertain,reproducing,transportStowaway,2025/2025,https://www.inaturalist.org/observations/318498108,
+alien-fungi-portugal:taxon:34ce5f9601fc24c569d68a6e0dc68559,Madeira,PT,present,uncertain,cultivated,transportStowaway,2023/2023,https://www.inaturalist.org/observations?place_id=7291&subview=table&taxon_id=85398,
+alien-fungi-portugal:taxon:4124db2cb86d7d7d2f746689471a842b,Mainland,PT,present,introduced,established,contaminantOnPlants,1991/,https://www.gbif.org/occurrence/1881931269,
+alien-fungi-portugal:taxon:45c9da42daff6c0c654564bf15ebb9c6,Mainland,PT,present,introduced,established,contaminantOnPlants,2018/2025,https://www.gbif.org/occurrence/4023448536,
+alien-fungi-portugal:taxon:4b1c3c29333bdc4f7646aa7c20b20a29,Mainland,PT,present,introduced,established,transportStowaway,2021/2025,https://www.inaturalist.org/observations/98753287|https://www.inaturalist.org/observations/327835466,
+alien-fungi-portugal:taxon:4bc6063bbe08a9a9f0961a060c2c9327,Mainland,PT,present,introduced,reproducing,parasitesOnPlants,2023/2025,https://www.inaturalist.org/observations/178242695|https://www.inaturalist.org/observations/313778255,
+alien-fungi-portugal:taxon:52649f629ee7cb940edc8fa20b9951c4,Mainland,PT,present,introduced,established,parasitesOnAnimals,2005/,10.1111/j.1461-0248.2009.01434.x|10.3897/neobiota.89.105994,
+alien-fungi-portugal:taxon:72f0b401ce5cf8c748b0ef8992343745,Mainland,PT,present,introduced,established,contaminantOnPlants,2020/2025,https://www.inaturalist.org/observations/42523172|https://www.inaturalist.org/observations/263202847,
+alien-fungi-portugal:taxon:8d8622d1a41db21f5509af18175eee9d,Mainland,PT,present,introduced,colonising,transportStowaway,2009/2025,https://observation.org/observation/262654447|https://www.inaturalist.org/observations/325548003,
+alien-fungi-portugal:taxon:ab0c06d84438569d9cf363c4487543d3,Mainland,PT,present,introduced,colonising,transportStowaway,2019/2025,https://www.inaturalist.org/observations/35045017|https://www.inaturalist.org/observations/328218878|doi.org/10.3390/f12101397,doi.org/10.3390/f12101397
+alien-fungi-portugal:taxon:ab0c06d84438569d9cf363c4487543d3,Azores,PT,present,introduced,established,transportStowaway,2024/2025,https://www.inaturalist.org/observations/249735160|https://www.inaturalist.org/observations/326614208|doi.org/10.3390/f12101397,
+alien-fungi-portugal:taxon:ab0c06d84438569d9cf363c4487543d3,Madeira,PT,present,introduced,reproducing,transportStowaway,2022/,https://www.inaturalist.org/observations/141177927|doi.org/10.3390/f12101397,
+alien-fungi-portugal:taxon:e0a5b0b172f76cec5e1c81295df9f89a,Mainland,PT,present,introduced,cultivated,agriculture,2010/2025,"COGUMELOS EM PORTUGAL – Tradição e Novas Abordagens.  2020. Caderno Técnico nº 6. Silva Lusitana, INIAV,IP. ISBN 978-972-579-056-4. https://www.iniav.pt/divulgacao/publicacoes-bd/publicacoes-silva-lusitana/cogumelos-em-portugal-tradicao-e-novas-abordagens-caderno-tecnico-n-6",
+alien-fungi-portugal:taxon:e4938d18d7b55c89e1ab8834e9ebc3c9,Mainland,PT,present,introduced,invasive,transportStowaway,2006/2025,https://www.inaturalist.org/observations/140647035|https://www.inaturalist.org/observations/328483190,
+alien-fungi-portugal:taxon:e4938d18d7b55c89e1ab8834e9ebc3c9,Azores,PT,present,introduced,colonising,transportStowaway,2019/2025,https://www.inaturalist.org/observations/36241009|https://www.inaturalist.org/observations/326179880,
+alien-fungi-portugal:taxon:e4938d18d7b55c89e1ab8834e9ebc3c9,Madeira,PT,present,introduced,colonising,transportStowaway,2020/2025,https://www.inaturalist.org/observations/65074238|https://www.inaturalist.org/observations/263240188,
