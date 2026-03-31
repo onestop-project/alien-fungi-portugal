@@ -159,9 +159,9 @@ taxon <-
   mutate(
     language = "en", # e.g. "en"
     license = "https://creativecommons.org/licenses/by/4.0/",
-    rightsHolder = "", 
+    rightsHolder = "CFE", 
     datasetID = "my_dataset_doi",
-    institutionCode = "",
+    institutionCode = "CFE",
     datasetName = "Checklist of alien fungi in Portugal"
   )
 ```
