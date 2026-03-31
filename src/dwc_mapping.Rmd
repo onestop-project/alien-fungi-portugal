@@ -44,7 +44,6 @@ library(rgbif)          # To use GBIF services
 
 # Read source data
 
-
 The data is maintained in [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRIxk5niVwK1R5uTkGVuWBa6vlTOX0tVA5oD12cT3MFWjdXBVvpodNa7WfRSeo93lBKHUQ4oA7_dM9/pub?gid=1172557183&single=true&output=csv).
 
 Read the relevant worksheet (published as csv):
